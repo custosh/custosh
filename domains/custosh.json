@@ -1,1 +1,12 @@
-
+{
+  "description": "my site",
+  "repo": "https://github.com/custosh/custosh",
+  "owner": {
+    "username": "custosh",
+    "email": "custosh.site@gmail.com"
+  },
+  "record": {
+    "CNAME": "custosh.pages.dev"
+  },
+  "proxied": true
+}
